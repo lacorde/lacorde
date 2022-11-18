@@ -2,7 +2,7 @@ Hi, I’m @lacorde 👋
 
 A Front-end developer from Montpellier, France.
 
-Recently I've been improving my JS skills, and intensively exploring Nuxt3 !
+Lately I've been intensively exploring Vue 3 / Nuxt 3 !
 
 <!---
 lacorde/lacorde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
